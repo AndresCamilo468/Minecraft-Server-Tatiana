@@ -1,0 +1,23 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-08-28 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-08-28 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2021-08-28 23:43:25 +0000",
+      "minecraft:wooded_hills": "2021-08-28 23:43:10 +0000",
+      "minecraft:plains": "2021-08-28 23:41:39 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
